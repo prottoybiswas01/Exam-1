@@ -66,6 +66,8 @@ body {
 }
 
 
+
+
 .nav-btn {
     background: #2f855a;
     color: #ffffff;
@@ -79,6 +81,7 @@ body {
 .nav-btn:hover {
     background: #276749;
 }
+
 
 /*  আমি কিছু জায়গায় ফ্রেন্ডের কাছ থেকে হেল্প নিয়েছি*/
 
@@ -100,7 +103,7 @@ body {
     position: absolute;
     inset: 0;
     background: linear-gradient(rgba(2, 6, 23, 0.75),
-            rgba(2, 6, 23, 0.85));
+     rgba(2, 6, 23, 0.85));
 }
 
 
@@ -117,7 +120,7 @@ body {
     font-size: 12px;
     font-weight: 600;
     border-radius: 999px;
-    background: rgba(34, 197, 94, 0.15);
+    background: rgb(255, 255, 255);
     color: #22c55e;
     margin-bottom: 24px;
 }
