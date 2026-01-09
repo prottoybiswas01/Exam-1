@@ -1,8 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-    
+    box-sizing: border-box;   
 }
 
 
@@ -87,10 +86,6 @@ body {
 .nav-btn:hover {
     background: #276749;
 }
-
-
-/*  আমি কিছু জায়গায় ফ্রেন্ডের কাছ থেকে হেল্প নিয়েছি*/
-
 
 
 .hero {
@@ -409,7 +404,6 @@ body {
     color: #64748b;
 }
 
-/* আমি কিছু জায়গায় ফ্রেন্ডের কাছ থেকে হেল্প নিয়েছি */
 
 .footer {
     background: linear-gradient(180deg, #020617, #020617);
