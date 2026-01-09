@@ -422,6 +422,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+
 }
 
 .footer-brand {
@@ -434,11 +435,14 @@ body {
     font-weight: 700;
     font-size: 18px;
     color: #22c55e; 
+    
 }
 
 .footer-brand small {
     font-size: 12px;
     color: #94a3b8;
+    
+   
 }
 
 
